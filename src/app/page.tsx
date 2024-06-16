@@ -34,7 +34,7 @@ export default function Home() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
         ></iframe>
       </div>
-      <div className="flex justify-center bg-white">
+      <div className="flex justify-center">
         <iframe
           src="https://innerpeacephilosophy.substack.com/embed"
           width="480"
